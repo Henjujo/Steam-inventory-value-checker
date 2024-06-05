@@ -84,6 +84,6 @@ HTTP errors will be shown with their codes and a short explaination. For further
 Those are all errors I encountered. If you find any new errors, you can probably fix them somehow. Restart your computer or something.
 
 Feel free to reach out if you encounter any problems or have any suggestions!
-Discord: henju / Henju#0351
-Steam UUID: 76561198233540304
-Email: henjugames2@gmail.com
++ Discord: henju / Henju#0351
++ Steam UUID: 76561198233540304
++ Email: henjugames2@gmail.com
